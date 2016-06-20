@@ -1,0 +1,31 @@
+{
+  "name": "timekill",
+  "version": "1.0.0",
+  "description": "This is a MEAN social network",
+  "main": "server.js",
+  "dependencies": {
+    "angular": "^1.5.7",
+    "body-parser": "^1.15.1",
+    "bootstrap": "^3.3.6",
+    "express": "^4.14.0",
+    "mongoose": "^4.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nahid1991/Timekill.git"
+  },
+  "keywords": [
+    "mean"
+  ],
+  "author": "nahid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nahid1991/Timekill/issues"
+  },
+  "homepage": "https://github.com/nahid1991/Timekill#readme"
+}
